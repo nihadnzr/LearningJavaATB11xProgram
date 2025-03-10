@@ -4,6 +4,7 @@ public class LAB002_CommentSection {
 
     public static void main(String[] args) {
         System.out.println("Comment on line");
-//        This is test comment
+        System.out.println("Comment on line");
     }
 }
+//        This is test comment
