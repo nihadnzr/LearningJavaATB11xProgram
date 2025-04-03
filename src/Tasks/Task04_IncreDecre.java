@@ -1,4 +1,4 @@
-package Tasks_IncrementOperator;
+package Tasks;
 
 public class Task04_IncreDecre {
 

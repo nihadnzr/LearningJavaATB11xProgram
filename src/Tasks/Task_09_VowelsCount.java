@@ -2,7 +2,7 @@ package Tasks;
 
 import java.util.Scanner;
 
-public class Task_02_VowelsCount {
+public class Task_09_VowelsCount {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter the Characters");

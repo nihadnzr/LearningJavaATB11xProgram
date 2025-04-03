@@ -1,4 +1,4 @@
-package Tasks_IncrementOperator;
+package Tasks;
 
 import java.util.Scanner;
 

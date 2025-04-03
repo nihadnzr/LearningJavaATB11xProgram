@@ -1,4 +1,4 @@
-package Tasks_IncrementOperator;
+package Tasks;
 
 public class Task01_IncremnetAdd {
     public static void main(String[] args) {

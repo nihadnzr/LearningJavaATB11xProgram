@@ -2,7 +2,7 @@ package Tasks;
 
 import java.util.Scanner;
 
-public class Task_01_Palindrome {
+public class Task_08_Palindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a character, and I will tell you whether it is a palindrome or not");

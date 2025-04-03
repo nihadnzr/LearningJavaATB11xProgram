@@ -1,4 +1,4 @@
-package Tasks_IncrementOperator;
+package Tasks;
 
 public class Task02_CLI1 {
     public static void main(String[] args) {
